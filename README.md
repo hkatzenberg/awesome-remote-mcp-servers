@@ -2699,6 +2699,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [fynk](https://fynk.com/en/integrations/mcp-server/) `https://app.fynk.com/mcp`
   [![fynk MCP connector](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp)
   🔐 - Manage contracts end to end: find and analyze them, draft or upload new ones, add signatories and send for e-signature.
+- [GleanMark](https://gleanmark.com/integrations) `https://gleanmark.com/mcp`
+  [![GleanMark MCP connector](https://glama.ai/mcp/connectors/com.gleanmark/trademark-search/badges/score.svg)](https://glama.ai/mcp/connectors/com.gleanmark/trademark-search)
+  🔓 - Search 14M USPTO trademark records, mark status and history, Office Actions and TTAB cases; OAuth for your portfolios.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
